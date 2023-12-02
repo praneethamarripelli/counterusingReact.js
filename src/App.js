@@ -20,7 +20,7 @@ function App() {
         if(counter<stock){
           setCounter(counter+1)
         }
-      }}>+</button>
+      }}> + </button>
      </div>
      </>
   )
